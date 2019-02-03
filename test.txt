@@ -1,0 +1,1 @@
+Testing sending new file to CloudVirtCA repository on GitHub from new VM in Azure.
